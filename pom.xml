@@ -34,7 +34,7 @@
           <archive>
             <manifest>
               <mainClass>
-                HelloMaven_prg8.HelloMaven.App
+                com.prg5.prg5.App
               </mainClass>
             </manifest>
           </archive>
